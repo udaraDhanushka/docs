@@ -19,7 +19,7 @@
 
 ### Programming Foundations
 
-- HTML, CSS Basics
+- HTML, CSS and JS Basics
 - Variables, data types, and operators
 - Control flow: if/else, loops, switch statements
 - Functions, scope, closures, and hoisting
