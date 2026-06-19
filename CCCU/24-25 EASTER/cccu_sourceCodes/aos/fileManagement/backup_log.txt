@@ -1,0 +1,64 @@
+[2025-03-09 13:31:37] MOVED: wmremove-transformed-new2.png to /home/udara/Documents/Personal/ASS/test_1
+[2025-03-09 13:38:33] DELETED: 135.csv
+[2025-03-09 13:39:43] BACKED UP: OS.sh
+[2025-03-09 13:42:18] RENAMED: 198_claim.csv to 198_claim_report.csv
+[2025-03-16 10:56:08] MOVED: inme_prod.txt to /home/udara/Documents/Personal/ASS/fileManagement/test_1
+[2025-03-16 10:57:16] BACKED UP: backup_log.txt
+[2025-03-16 11:19:38] [FAILED] MOVE: File not found: 
+[2025-03-16 11:20:15] [SUCCESS] MOVE: 114.js to /home/udara/Documents/Personal/ASS/fileManagement/test_1
+[2025-03-16 11:20:46] [SUCCESS] RENAME: test_1 to Test_12
+[2025-03-16 11:40:13] [INFO] SYSTEM: Session ended
+[2025-03-16 12:42:27] [INFO] SYSTEM: Session ended
+[2025-03-16 12:43:38] [SUCCESS] DELETE: 114.js
+[2025-03-16 15:10:14] MOVED: 114.js to /home/udara/Documents/Personal/ASS/fileManagement/Test_12
+[2025-03-16 15:11:21] MOVED: 114.js to /home/udara/Documents/Personal/ASS/fileManagement/Test_12
+[2025-03-16 15:14:07] RENAMED: 135.csv to 1351.csv
+[2025-03-16 15:14:33] DELETED: 1351.csv
+[2025-03-16 15:15:04] BACKED UP: OS.sh
+[2025-03-16 15:15:44] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement/Test_12
+[2025-03-16 15:51:16] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement/Test_12
+[2025-03-16 15:58:39] MOVE FAILED: Duplicate target /home/udara/Documents/Personal/ASS/fileManagement/Test_12/114.js
+[2025-03-16 15:59:00] RENAMED: 114.js to 1123.js
+[2025-03-16 15:59:29] MOVED: /home/udara/Documents/Personal/ASS/fileManagement/1123.js to /home/udara/Documents/Personal/ASS/fileManagement/Test_12/1123.js
+[2025-03-16 16:00:08] BACKED UP: /home/udara/Documents/Personal/ASS/fileManagement/1114.js to /home/udara/Documents/Personal/ASS/fileManagement/Backup/20250316160008_1114.js
+[2025-03-16 16:00:30] DELETED: /home/udara/Documents/Personal/ASS/fileManagement/1114.js
+[2025-03-16 16:08:20] NAVIGATED: to /home/udara/Documents/Personal/ASS
+[2025-03-16 16:09:17] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement
+[2025-03-16 16:10:41] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement/Test_12
+[2025-03-16 16:11:32] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement
+[2025-03-16 16:14:37] MOVE FAILED: Duplicate target /home/udara/Documents/Personal/ASS/fileManagement/Test_12/114.js
+[2025-03-16 16:18:31] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement
+[2025-03-16 16:19:42] BACKED UP: /home/udara/Documents/Personal/ASS/fileManagement/198_claim_report.csv to /home/udara/Documents/Personal/ASS/fileManagement/Backup/20250316161942_198_claim_report.csv
+[2025-03-18 04:59:41] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement/Test_12
+[2025-03-18 04:59:59] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement
+[2025-03-18 05:00:29] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement/Backup
+[2025-03-18 05:00:51] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement
+[2025-03-18 05:03:29] MOVED: /home/udara/Documents/Personal/ASS/fileManagement/OS (Copy).sh to /home/udara/Documents/Personal/ASS/fileManagement//home/udara/Documents/Personal/ASS/fileManagement/Test_12
+[2025-03-18 05:03:53] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement/Test_12
+[2025-03-18 05:05:13] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement
+[2025-03-18 05:06:11] RENAMED: OS (Copy 2).sh to OS_2.sh
+[2025-03-18 05:07:09] DELETED: /home/udara/Documents/Personal/ASS/fileManagement/OS (Copy 3).sh
+[2025-03-18 05:10:35] DELETED: /home/udara/Documents/Personal/ASS/fileManagement/home
+[2025-03-18 05:34:01] MOVED: /home/udara/Documents/Personal/ASS/fileManagement/OS_2.sh to /home/udara/Documents/Personal/ASS/fileManagement//home/udara/Documents/Personal/ASS/fileManagement/Test_12
+[2025-03-18 05:38:11] DELETED: /home/udara/Documents/Personal/ASS/fileManagement/home
+[2025-03-18 05:39:12] MOVED: /home/udara/Documents/Personal/ASS/fileManagement/OS_2.sh to /home/udara/Documents/Personal/ASS/fileManagement/Test_12/OS_2.sh
+[2025-03-18 19:54:57] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement/Test_12
+[2025-03-18 19:56:23] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement
+[2025-03-18 19:56:43] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement
+[2025-03-18 20:09:05] MOVED: /home/udara/Documents/Personal/ASS/fileManagement/OS_2.sh to /home/udara/Documents/Personal/ASS/fileManagement/Test_12/OS_2.sh
+[2025-03-18 20:11:37] RENAMED: OS_3.sh to OS_5.sh
+[2025-03-18 20:12:46] DELETED: /home/udara/Documents/Personal/ASS/fileManagement/OS_4.sh
+[2025-03-18 20:14:11] BACKED UP: /home/udara/Documents/Personal/ASS/fileManagement/file_manager.sh to /home/udara/Documents/Personal/ASS/fileManagement/Backup/20250318201411_file_manager.sh
+[2025-03-18 20:15:26] NAVIGATED: to /home/udara/Documents/Personal/ASS/fileManagement/Backup
+[2025-06-17 08:34:06] NAVIGATED: to /home/udara/Documents/docs/SRS
+[2025-06-17 08:34:35] NAVIGATED: to /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement
+[2025-06-17 08:44:57] RENAMED: OS_5 (Copy).sh to OS_5_1
+[2025-06-17 08:47:02] BACKED UP: /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/OS_5_1.sh to /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/Backup/20250617084702_OS_5_1.sh
+[2025-06-17 08:49:35] MOVED: /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/OS_5_1.sh to /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement//home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/Test_12
+[2025-06-17 09:36:02] MOVED: /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/OS_5.sh to /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/Test_12/OS_5.sh
+[2025-06-17 09:38:39] BACKED UP: /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/file_manager.sh to /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/Backup/20250617093839_file_manager.sh
+[2025-06-17 21:41:42] NAVIGATED: to /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement
+[2025-06-17 21:42:56] MOVED: /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/OS.sh to /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/Test_12/OS.sh
+[2025-06-17 21:44:33] RENAMED: OS.sh to OS_1.sh
+[2025-06-17 21:45:18] DELETED: /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/OS_1.sh
+[2025-06-17 21:46:02] BACKED UP: /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/file_manager.sh to /home/udara/Documents/docs/cccu_submissions/cccu_sourceCodes/aos/fileManagement/Backup/20250617214601_file_manager.sh

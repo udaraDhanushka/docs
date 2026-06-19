@@ -1,0 +1,5 @@
+[2025-06-17 11:22:48]|Student:ST001|File:U10830 - Assignment 2 - Saegis - 2024-25 (1).docx|Size:278652|Status:ACCEPTED|Hash:9e32c2185270f926b0e1cc4d27572270
+[2025-06-17 11:24:28]|Student:ST002|File:U10830 - Assignment 2 - Saegis - 2024-25 (1).docx|Size:NA|Status:REJECTED_NAME_DUP|Hash:9e32c2185270f926b0e1cc4d27572270
+[2025-06-17 11:56:48]|Student:ST003|File:Functional and Technical Requirements for Port of Dover System Dashboard (1).pdf|Size:152670|Status:ACCEPTED|Hash:de23f1c97062f754a1f4cd1b785b5c87
+[2025-06-17 21:57:13]|Student:ST0012|File:Example Excellent Progress Poster.pdf|Size:9073044|Status:REJECTED_SIZE|Hash:NA
+[2025-06-17 21:58:02]|Student:ST0012|File:HCI_Assignment (1).pdf|Size:747058|Status:ACCEPTED|Hash:1d315aef31079be4155e376c76476ea1
