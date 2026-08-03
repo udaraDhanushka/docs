@@ -1,0 +1,17 @@
+Host maji
+    HostName 3.236.171.201
+    User ec2-user
+    Port 22
+    IdentityFile \Users\INSUREME\.ssh\id_ed25519
+
+Host digimed
+    HostName 50.17.246.160
+    User ubuntu
+    Port 22
+    IdentityFile \Users\INSUREME\.ssh\id_ed25519
+
+Host insureme
+    HostName 18.136.54.210
+    User ubuntu
+    Port 22
+    IdentityFile \Users\INSUREME\.ssh\id_ed25519
