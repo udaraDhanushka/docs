@@ -1,0 +1,24 @@
+DIGIEX
+
+prod-digiex-docdb.cluster-cmyapciuriew.us-east-1.docdb.amazonaws.com
+docdbadmindigiservices
+8Jph8Om5hhtV
+3.236.171.201
+ec2-user
+should be add CA file as well `digitalservices_digiex_digimed.pem`
+
+DIGIMED
+
+prod-digimed-postgresql.cluster-cmyapciuriew.us-east-1.rds.amazonaws.com
+digimedpgadmin
+U8ZsVzvKQhzLUZ36
+50.17.246.160
+ubuntu
+
+INSUREME
+
+prod-insureme-diginet-rds.cpojk2ic9hfb.ap-southeast-1.rds.amazonaws.com
+support_udara
+3gEW3XIeEOFhgmoQRRXt
+18.136.54.210
+ubuntu
