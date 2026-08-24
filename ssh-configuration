@@ -22,3 +22,12 @@ support_udara
 3gEW3XIeEOFhgmoQRRXt
 18.136.54.210
 ubuntu
+
+DIGIMED DEV
+
+127.0.0.1
+PORT: 5433
+POSTGRES_USER=devadminuser
+POSTGRES_PASSWORD=6rXux93Le7CobV76r8P
+18.138.43.239
+ubuntu
