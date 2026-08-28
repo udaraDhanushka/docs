@@ -31,3 +31,12 @@ POSTGRES_USER=devadminuser
 POSTGRES_PASSWORD=6rXux93Le7CobV76r8P
 18.138.43.239
 ubuntu
+
+DIGIEYE
+
+prod-digis-digieye-docdb.cluster-cmyapciuriew.us-east-1.docdb.amazonaws.com
+docdbadmindigiservices
+aTrTgUujMuCX64fg
+34.202.184.251
+ubuntu
+should be add CA file as well `digitalservices_digiex_digimed.pem`

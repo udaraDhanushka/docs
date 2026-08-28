@@ -15,3 +15,15 @@ Host insureme
     User ubuntu
     Port 22
     IdentityFile \Users\INSUREME\.ssh\id_ed25519
+
+Host digieye
+    HostName 18.136.54.211
+    User ubuntu
+    Port 22
+    IdentityFile \Users\INSUREME\.ssh\id_ed25519
+
+Host meddev
+    HostName 18.138.43.239
+    User ubuntu
+    Port 22
+    IdentityFile \Users\INSUREME\.ssh\id_ed25519
