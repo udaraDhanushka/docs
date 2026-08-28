@@ -17,7 +17,7 @@ Host insureme
     IdentityFile \Users\INSUREME\.ssh\id_ed25519
 
 Host digieye
-    HostName 18.136.54.211
+    HostName 34.202.184.251
     User ubuntu
     Port 22
     IdentityFile \Users\INSUREME\.ssh\id_ed25519
