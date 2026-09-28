@@ -3,7 +3,7 @@ DIGIEX
 prod-digiex-docdb.cluster-cmyapciuriew.us-east-1.docdb.amazonaws.com
 docdbadmindigiservices
 8Jph8Om5hhtV
-3.236.171.201
+98.92.155.194
 ec2-user
 should be add CA file as well `digitalservices_digiex_digimed.pem`
 
