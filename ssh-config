@@ -1,5 +1,5 @@
 Host maji
-    HostName 3.236.171.201
+    HostName 98.92.155.194
     User ec2-user
     Port 22
     IdentityFile \Users\INSUREME\.ssh\id_ed25519
